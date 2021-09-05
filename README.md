@@ -21,5 +21,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/dev-hannahk/)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white&link=https://github.com/dev-hannahk/)
 
-[![Hannahk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hannahk)](https://github.com/dev-hannahk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hannahk&layout=compact&card_width=445)](https://github.com/dev-hannahk/github-readme-stats)
